@@ -1,0 +1,7 @@
+server:
+  port: 8601
+  servlet:
+    context-path: /demo-ai-01
+spring:
+  application:
+    name: demo-ai-01
